@@ -21,3 +21,9 @@ def UpdateString():
 
 def FindWordCount():
     #finish
+
+# Find Score
+def ScoreFinder():
+    #finish
+
+#
