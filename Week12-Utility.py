@@ -16,3 +16,8 @@ def LoadFile():
 
 def UpdateString():
     #finish
+
+# FindWordCount
+
+def FindWordCount():
+    #finish
