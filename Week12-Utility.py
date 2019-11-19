@@ -30,3 +30,8 @@ def ScoreFinder():
 
 def Union():
     #finsih
+
+# Intersection
+
+def Intersection
+    # Finish
