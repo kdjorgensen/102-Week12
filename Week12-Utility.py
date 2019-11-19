@@ -26,4 +26,7 @@ def FindWordCount():
 def ScoreFinder():
     #finish
 
-#
+# Union
+
+def Union():
+    #finsih
