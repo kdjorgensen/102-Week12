@@ -7,5 +7,12 @@
 def PrintOutput(thing_to_print):
     print('OUTPUT ', thing_to_print)
 
+# LoadFile
+
 def LoadFile():
     #finsh
+
+#UpdateString
+
+def UpdateString():
+    #finish
