@@ -10,7 +10,7 @@ def PrintOutput(thing_to_print):
 # LoadFile
 
 def LoadFile():
-    #finsh
+#finsh
 
 #UpdateString
 
@@ -32,6 +32,11 @@ def Union():
     #finsih
 
 # Intersection
+
+def Intersection
+    # Finish
+
+# NotIn
 
 def Intersection
     # Finish
